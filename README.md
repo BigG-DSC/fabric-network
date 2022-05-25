@@ -54,4 +54,4 @@ Join the channel in the peer 2-3:
   ```
 
 # License
-Hyperledger Fabri Project source code is released under the Apache 2.0 license.
+Hyperledger Fabric Project source code is released under the Apache 2.0 license.
